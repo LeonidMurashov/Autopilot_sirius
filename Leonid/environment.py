@@ -17,7 +17,7 @@ simple_bot_model = None
 rage_mode = False
 p = [3, 15]
 
-jams_file = "data_files/jams.npy"
+jams_file = "data_files/jams_test.npy"
 df_lights = pd.read_csv("data_files/street_lights_converted.csv")
 df_stops = pd.read_csv("data_files/stops_converted.csv")
 road = np.load(jams_file)

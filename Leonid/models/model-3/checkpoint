@@ -1,5 +1,0 @@
-model_checkpoint_path: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-3/qlearning.ckpt-8000"
-all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-3/qlearning.ckpt-2000"
-all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-3/qlearning.ckpt-4000"
-all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-3/qlearning.ckpt-6000"
-all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-3/qlearning.ckpt-8000"
