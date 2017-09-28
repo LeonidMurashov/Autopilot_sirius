@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+model_checkpoint_path: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-2/qlearning.ckpt-198000"
+all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-2/qlearning.ckpt-190000"
+all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-2/qlearning.ckpt-192000"
+all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-2/qlearning.ckpt-194000"
+all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-2/qlearning.ckpt-196000"
+all_model_checkpoint_paths: "C:\\Users\\user\\Desktop\\autopilot\\Leonid\\models/model-2/qlearning.ckpt-198000"
+=======
+model_checkpoint_path: "D:\\Python_projects\\Autopilot_sirius\\Leonid\\models/model-2/qlearning.ckpt-3120000"
+all_model_checkpoint_paths: "D:\\Python_projects\\Autopilot_sirius\\Leonid\\models/model-2/qlearning.ckpt-3112000"
+all_model_checkpoint_paths: "D:\\Python_projects\\Autopilot_sirius\\Leonid\\models/model-2/qlearning.ckpt-3114000"
+all_model_checkpoint_paths: "D:\\Python_projects\\Autopilot_sirius\\Leonid\\models/model-2/qlearning.ckpt-3116000"
+all_model_checkpoint_paths: "D:\\Python_projects\\Autopilot_sirius\\Leonid\\models/model-2/qlearning.ckpt-3118000"
+all_model_checkpoint_paths: "D:\\Python_projects\\Autopilot_sirius\\Leonid\\models/model-2/qlearning.ckpt-3120000"
+>>>>>>> 2354b018a310f01108e5582f8efa88107a2cbaef

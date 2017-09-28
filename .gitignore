@@ -1,0 +1,20 @@
+#PYTHON ignores
+#ipch/
+*.opendb
+*.opensdf
+*.LEO-PC
+*.npy
+*.data-00000-of-00001
+*.meta
+*.h5
+*.csv
+*.bin
+*.rar
+.idea/
+.idea\Autopilot_sirius.iml
+.idea\codeStyleSettings.xml
+.idea\master.iml
+.idea\misc.xml
+.idea\modules.xml
+.idea\vcs.xml
+.idea\workspace.xml
